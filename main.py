@@ -6,7 +6,7 @@ from datetime import datetime
 # === Azure App Registration credentials ===
 TENANT_ID = "aeae09de-052e-4237-87b7-0fd16388f59b"
 CLIENT_ID = "06559164-e614-47bd-8f28-c2887a33d7f7"
-CLIENT_SECRET = "rIV8Q~taiddiG3Syl4krqH~JgrgAhGpSin-MCaNc"
+CLIENT_SECRET = "PIa8Q~gdDJi1dqqZnrh8LtU05YTB9YFGYhuetc8K"
 
 # === SharePoint/Graph details ===
 SITE_HOSTNAME = "payrolleasy.sharepoint.com"
